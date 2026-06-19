@@ -20,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  */
 define( 'PATTERNS_CONSTRUCTION_PATH', trailingslashit( get_template_directory() ) );
 define( 'PATTERNS_CONSTRUCTION_URL', trailingslashit( get_template_directory_uri() ) );
-define( 'PATTERNS_CONSTRUCTION_VERSION', '1.0.1' );
+define( 'PATTERNS_CONSTRUCTION_VERSION', '2.0.0' );
 define( 'PATTERNS_CONSTRUCTION_THEME_NAME', 'patterns-construction' );
 define( 'PATTERNS_CONSTRUCTION_OPTION_NAME', 'patterns-construction' );
 
