@@ -60,7 +60,7 @@ https://www.rawpixel.com/image/3282947/free-photo-image-office-building
 
 === Icons Images ===
 
-Material Icons Font 
+Material Icons Font
 
 https://fonts.google.com/icons
 

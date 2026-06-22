@@ -49,7 +49,7 @@
 <h5 class="wp-block-heading has-medium-font-size"><?php esc_html_e( 'Banking Center', 'patterns-construction' ); ?></h5>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
-    
+
 </div></div>
 <!-- /wp:cover -->
 
@@ -58,7 +58,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column">
-    
+
     <!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-1.jpg","dimRatio":90,"minHeight":360,"customGradient":"linear-gradient(179deg,rgba(7,146,227,0) 38%,rgb(12,45,98) 76%)","contentPosition":"bottom left","style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-cover has-custom-content-position is-position-bottom-left" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30);min-height:360px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(179deg,rgba(7,146,227,0) 38%,rgb(12,45,98) 76%)"></span><img class="wp-block-cover__image-background" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-1.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container">
 
@@ -73,7 +73,7 @@
 <h5 class="wp-block-heading has-medium-font-size"><?php esc_html_e( 'Hing Square Center', 'patterns-construction' ); ?></h5>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
-    
+
 
 </div></div>
 <!-- /wp:cover -->
