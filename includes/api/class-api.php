@@ -36,14 +36,14 @@ if ( ! class_exists( 'Patterns_Construction_Api' ) ) {
 		/**
 		 * Rest route namespace.
 		 *
-		 * @var Patterns_Construction_Api
+		 * @var string
 		 */
 		public $namespace = 'patterns-construction/';
 
 		/**
 		 * Rest route version.
 		 *
-		 * @var Patterns_Construction_Api
+		 * @var string
 		 */
 		public $version = 'v1';
 
