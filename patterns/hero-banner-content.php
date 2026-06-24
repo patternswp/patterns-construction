@@ -13,7 +13,7 @@
 ?>
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained","contentSize":"800px"}} -->
 <div class="wp-block-group">
-    
+
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size"><?php esc_html_e( 'Smart Solutions', 'patterns-construction' ); ?></p>
 <!-- /wp:paragraph -->

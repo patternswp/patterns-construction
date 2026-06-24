@@ -31,12 +31,12 @@
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group">
     <!-- wp:post-featured-image {"style":{"border":{"radius":{"topLeft":"5px","topRight":"5px","bottomLeft":"0px","bottomRight":"0px"}}}} /-->
-    
+
     <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}},"border":{"radius":{"bottomLeft":"5px","bottomRight":"5px"},"left":{"color":"var:preset|color|quaternary","style":"solid","width":"1px"},"top":{},"right":{"color":"var:preset|color|quaternary","style":"solid","width":"1px"},"bottom":{"color":"var:preset|color|quaternary","style":"solid","width":"1px"}}},"layout":{"type":"constrained"}} -->
     <div class="wp-block-group" style="border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-right-color:var(--wp--preset--color--quaternary);border-right-style:solid;border-right-width:1px;border-bottom-color:var(--wp--preset--color--quaternary);border-bottom-style:solid;border-bottom-width:1px;border-left-color:var(--wp--preset--color--quaternary);border-left-style:solid;border-left-width:1px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:post-date {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"fontSize":"13px"}},"textColor":"primary"} /-->
-    
+
     <!-- wp:post-title {"isLink":true,"style":{"typography":{"fontSize":"20px"},"elements":{"link":{"color":{"text":"var:preset|color|base"},":hover":{"color":{"text":"var:preset|color|primary"}}}}}} /-->
-    
+
     <!-- wp:post-excerpt {"excerptLength":15,"style":{"elements":{"link":{"color":{"text":"var:preset|color|tertiary"}}},"typography":{"lineHeight":"1.7"},"spacing":{"margin":{"top":"var:preset|spacing|15"}}},"textColor":"tertiary"} /--></div>
     <!-- /wp:group -->
 

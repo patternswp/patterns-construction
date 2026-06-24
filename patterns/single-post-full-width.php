@@ -21,7 +21,7 @@
     <!-- /wp:spacer -->
 
 	<!-- wp:pattern {"slug":"patterns-construction/hidden-single-post-content"} /-->
-	
+
 </main>
 <!-- /wp:group -->
 
